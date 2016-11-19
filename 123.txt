@@ -1,0 +1,22 @@
+    <div>
+      <img src="img\img_footer.png">
+    </div>
+    <div>
+      <div>
+        <p>Copyright copy 2012</p>
+      </div>
+      <div>
+        <div>
+          <img src="img\btn_facebook.png">
+        </div>
+        <div>
+          <img src="img\btn_instagram.png">
+        </div>
+        <div>
+          <img src="img\btn_line.png">
+        </div>
+        <div>
+          <img src="img\btn_youtube.png">
+        </div>
+      </div>
+    </div>
